@@ -1,3 +1,3 @@
 # pixel
 
-DEMO LINK: [https://pixel-beryl.vercel.app/] Hello
+DEMO LINK: https://pixel-beryl.vercel.app/
